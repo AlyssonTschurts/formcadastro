@@ -1,0 +1,29 @@
+
+body {
+    background: linear-gradient(90deg, #fdaaa1,#70c2db);
+}
+form label {
+    display:block;
+    font-size: 14px;
+    margin: 10px 0 10px;
+    font-family: 'verdana';
+    font-weight: bold;
+}
+.input-padrao {
+    display: block;
+    margin: 0 0 20px;
+    width: 25%;
+    padding: 10px;
+
+}
+.enviar {
+    width:10%;
+    padding: 15px 0;
+    background: #20c1e9;
+    color: rgb(231, 56, 202);
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    margin: 0 auto;
+}
